@@ -50,7 +50,8 @@ Each folder contains:
 1. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/supervised-ml-algorithms.git
+git clone https://github.com/adityadinkarpatil684
+/supervised-ml-algorithms.git
 cd supervised-ml-algorithms
 ```
 
